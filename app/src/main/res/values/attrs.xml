@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="imageText">
+        <attr name="image" format="reference" />
+        <attr name="text" format="string" />
+        <attr name="textColor" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="LadderLayout">
+        <attr name="topWidthrate" format="float" />
+        <attr name="bottomWidthrate" format="float" />
+        <attr name="leftRect" format="boolean" />
+        <attr name="rightRect" format="boolean" />
+        <attr name="verticalheightrate" format="float" />
+
+
+
+        <attr name="leftheightrate" format="float" />
+        <attr name="rightheightrate" format="float" />
+        <attr name="horizontalweigthrate" format="float" />
+    </declare-styleable>
+
+</resources>
